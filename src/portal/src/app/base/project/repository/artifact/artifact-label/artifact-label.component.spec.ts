@@ -28,7 +28,7 @@ describe('ArtifactLabelComponent', () => {
                 name: 'Qwen2.5-0.5B',
             },
         },
-        type: 'CNCI',
+        type: 'CNAI',
     };
 
     beforeEach(async () => {
